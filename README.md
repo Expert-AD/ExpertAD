@@ -7,7 +7,7 @@
 
 ## Intro
 
-<img src="sources/pipeline.png" alt="teaser" style="zoom: 67%;" />
+<!-- <img src="sources/pipeline.png" alt="teaser" style="zoom: 67%;" /> -->
 
 - We propose a **Perception Adapter (PA)** to filter redundant driving environment information and a Mixture of Sparse Experts (MoSE) to reduce the driving task interference.
 - We propose **ExpertAD**, which is a novel framework that integrates the lightweight efficiency of the Mixture of Experts (MoE) framework into ADSs.
@@ -22,9 +22,10 @@
 
 **ExpertAD** achieves better planning effectiveness and lower inference latency on the nuScenes dataset compared to the baseline models (*i.e*., UniAD and VAD). The latency of ExpertAD and baseline models is mea sured on a single NVIDIA Tesla A100 GPU
 
-<img src="sources/main_results.png" alt="teaser" style="zoom: 67%;" />
+<!-- <img src="sources/main_results.png" alt="teaser" style="zoom: 67%;" /> -->
 
 
 ## Catalog
 - [x] Code Release
 - [x] Initialization
+
