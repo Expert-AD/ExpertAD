@@ -147,7 +147,7 @@ pip install -r requirements_Expert-VAD.txt
 Models will be made public upon publications.
 ```
 
-**j. Install CARLA for closed-loop evaluation.**]
+**j. Install CARLA for closed-loop evaluation.**
 
 ```shell
 ## Ignore the line about downloading and extracting CARLA if you have already done so.
